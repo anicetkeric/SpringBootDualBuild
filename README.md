@@ -9,6 +9,7 @@ Create application.properties files:
   - application-prod.properties
 
 ```xml
+ modify pom.xml
 <profile>
     <id>dev</id>
     <properties>
